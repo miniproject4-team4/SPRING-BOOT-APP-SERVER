@@ -2,7 +2,7 @@
 
 ```
 src
-├── main
+└── main
     ├── java
     │   └── bbs
     │       ├── BbsApplication.java
