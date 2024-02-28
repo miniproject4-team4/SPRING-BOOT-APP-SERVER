@@ -1,7 +1,7 @@
 # App Server
 ## WAS 환경에서 mariaDB 설치하기
 ```
-$ sudo apt install mariadb-server
+$ sudo apt install mariadb-server -y
 $ sudo apt install mariadb-client
 $ sudo mysql_secure_installation
 $ sudo systemctl enable mariadb
